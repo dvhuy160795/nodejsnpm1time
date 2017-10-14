@@ -1,0 +1,25 @@
+{
+  "name": "projectusenpm",
+  "version": "1.0.0",
+  "description": "npmfirsttime",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(xin chao)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvhuy160795/nodejsnpm1time.git"
+  },
+  "keywords": [
+    "huy"
+  ],
+  "author": "dvhuy160795@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvhuy160795/nodejsnpm1time/issues"
+  },
+  "homepage": "https://github.com/dvhuy160795/nodejsnpm1time#readme",
+  "dependencies": {
+    "node-persist": "^2.1.0"
+  }
+}
